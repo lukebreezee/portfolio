@@ -4,6 +4,7 @@ const ProfileBody = () => {
       <h2>Projects</h2>
       <hr />
       <h4>Developer Team's Issue Tracker</h4>
+      <h6>React, Redux, Node, Express, MongoDB</h6>
       <div className="links">
         <a href="https://youtu.be/hN-ZH8skA5I" target="_blank" rel="noreferrer">
           Quick Demo Video
@@ -23,7 +24,6 @@ const ProfileBody = () => {
           GitHub Repo
         </a>
       </div>
-      <h6>React, Redux, Node, Express, MongoDB</h6>
       <p>
         Solo project - Built full-stack web app with above technologies to
         facilitate alleviation of bugs, issues, and feature requests in a
@@ -32,6 +32,7 @@ const ProfileBody = () => {
         data caching.
       </p>
       <h4>Sorting Visualizer</h4>
+      <h6>React, Redux</h6>
       <div className="links">
         <a href="https://youtu.be/hcOU4AN2V9g" target="_blank" rel="noreferrer">
           Quick Demo Video
@@ -51,7 +52,6 @@ const ProfileBody = () => {
           GitHub Repo
         </a>
       </div>
-      <h6>React, Redux</h6>
       <p>
         Solo project - Built application that visualizes sorting algorithms with
         bars of different heights. Implemented merge sort, quick sort, selection
