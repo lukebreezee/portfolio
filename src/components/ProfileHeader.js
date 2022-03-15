@@ -6,6 +6,7 @@ const ProfileHeader = () => {
     <>
       <img src={require('../assets/profile-photo.jpeg')} alt="Profile" />
       <h1>Luke Breezee</h1>
+      <p>Full-Stack Web/Mobile Developer</p>
       <div className="links">
         <a
           href="https://github.com/lukebreezee"
