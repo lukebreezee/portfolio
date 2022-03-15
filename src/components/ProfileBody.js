@@ -23,6 +23,7 @@ const ProfileBody = () => {
           GitHub Repo
         </a>
       </div>
+      <h6>React, Redux, Node, Express, MongoDB</h6>
       <p>
         Solo project - Built full-stack web app with above technologies to
         facilitate alleviation of bugs, issues, and feature requests in a
@@ -50,12 +51,11 @@ const ProfileBody = () => {
           GitHub Repo
         </a>
       </div>
+      <h6>React, Redux</h6>
       <p>
-        Solo project - Built full-stack web app with above technologies to
-        facilitate alleviation of bugs, issues, and feature requests in a
-        codebase/tech project. Hosted with Netlify/Heroku using CI/CD
-        foundation, OAuth authentication, REST principles, Bootstrap styling,
-        data caching.
+        Solo project - Built application that visualizes sorting algorithms with
+        bars of different heights. Implemented merge sort, quick sort, selection
+        sort, bubble sort.
       </p>
     </div>
   )
